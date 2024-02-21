@@ -1,3 +1,3 @@
 # volleyball
 
-Prognozing win or loosing of volleyball commands based on statistics before
+predicting win or loosing of volleyball commands based on statistics before
